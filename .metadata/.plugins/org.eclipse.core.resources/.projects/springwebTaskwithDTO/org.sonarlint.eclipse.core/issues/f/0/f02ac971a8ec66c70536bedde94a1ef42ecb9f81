@@ -1,0 +1,9 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½Ó©ºúÿÿÿÿHÉ2RMINORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHÊ2RINFOZ
+CODE_SMELL
+u
+java:S1128	"IRemove this unused import 'org.hibernate.tuple.GeneratedValueGeneration'.(–Ü²ÓHË2RMINORZ
+CODE_SMELL

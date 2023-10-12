@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.globallogic.catalogue&apos; to &apos;com.globallogic.feign&apos;&#x0A;- Original project: &apos;feignClientDemo&apos;&#x0A;- Original element: &apos;feignClientDemo/src/main/java/com.globallogic.catalogue&apos;&#x0A;- Renamed element: &apos;feignClientDemo/src/main/java/com.globallogic.feign&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.globallogic.catalogue&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.globallogic.catalogue" name="com.globallogic.feign" qualified="false" references="true" stamp="1668417876976" textual="false" version="1.0"/>
+</session>

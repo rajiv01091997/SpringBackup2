@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.globallogic.User&apos; to &apos;com.globallogic.Model&apos;&#x0A;- Original project: &apos;springwebTaskOnetoOne&apos;&#x0A;- Original element: &apos;springwebTaskOnetoOne/src/main/java/com.globallogic.User&apos;&#x0A;- Renamed element: &apos;springwebTaskOnetoOne/src/main/java/com.globallogic.Model&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.globallogic.User&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.globallogic.User" name="com.globallogic.Model" qualified="false" references="true" stamp="1667453898138" textual="false" version="1.0"/>
+</session>

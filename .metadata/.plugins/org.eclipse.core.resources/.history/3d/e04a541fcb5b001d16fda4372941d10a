@@ -1,0 +1,44 @@
+package com.globallogic.Service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.globallogic.Model.Address;
+import com.globallogic.Model.User;
+import com.globallogic.Repository.AddressRepository;
+import com.globallogic.Repository.UserRepository;
+
+@Service
+public class AddresssServiceImpl implements IAddressService {
+	@Autowired
+	UserRepository userRepository;
+	@Autowired
+	AddressRepository addressRepository;
+
+	@Override
+	public Address addAddress(Address address) {
+		// TODO Auto-generated method stub
+        //addressRepository.save(user.getAddress());
+        addressRepository.save(address);
+		return address;
+	}
+
+	@Override
+	public Address displayBasedOnAddressId(long id) {
+		// TODO Auto-generated method stub
+		
+		return addressRepository.findById(id).get();
+	}
+
+	@Override
+	public List<Address> displayAll() {
+		// TODO Auto-generated method stub
+		List<Address> address=addressRepository.findAll();
+		return address ;
+	}
+
+	
+
+}

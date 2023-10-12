@@ -1,0 +1,30 @@
+
+Š
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰Ô¸üıÿÿÿÿH¶2RMINORZ
+CODE_SMELL
+…
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(™‹ÓH¸2RMINORZ
+CODE_SMELL
+i
+java:S1128"8Remove this unused import 'com.globallogic.entity.Book'.(Ä„ÏÎúÿÿÿÿHº2RMINORZ
+CODE_SMELL
+‚
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.ResponseBody'.(•¶¶êøÿÿÿÿH¼2RMINORZ
+CODE_SMELL
+m
+java:S1128"<Remove this unused import 'com.globallogic.repo.Repository'.(ïƒŒùÿÿÿÿH¾2RMINORZ
+CODE_SMELL
+l
+java:S1128"@Remove this unused import 'com.globallogic.service.ServiceImpl'.(Éª„ÊHÀ2RMINORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(·™’ÍşÿÿÿÿHÂ2RMAJORZ
+CODE_SMELL
+…
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(Â÷õ¥HÃ2RMINORZ
+CODE_SMELL
+…
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(İÈ¢HÅ2RMINORZ
+CODE_SMELL
+Š
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ†¥¸øÿÿÿÿHÇ2RMINORZ
+CODE_SMELL

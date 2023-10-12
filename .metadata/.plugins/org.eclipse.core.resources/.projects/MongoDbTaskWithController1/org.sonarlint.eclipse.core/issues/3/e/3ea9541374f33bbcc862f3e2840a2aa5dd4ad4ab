@@ -1,0 +1,20 @@
+
+a
+java:S3655*"7Call "Optional#isPresent()" before accessing the value.(ÀøŽÅùÿÿÿÿHô0RMAJORZBUG
+\
+java:S36559"7Call "Optional#isPresent()" before accessing the value.(Ø“ìÃHõ0RMAJORZBUG
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHö0RINFOZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿH÷0RINFOZ
+CODE_SMELL
+b
+java:S1135'"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHø0RINFOZ
+CODE_SMELL
+b
+java:S11351"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHù0RINFOZ
+CODE_SMELL
+b
+java:S11358"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHú0RINFOZ
+CODE_SMELL
